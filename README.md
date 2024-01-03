@@ -3,6 +3,7 @@
 ### About
 
 This program recognizes handwritten 0-9 and A-Z characters. It uses a ResNet structure with 50 layers.
+Both files perform the same.
 
 ### Data Source
 
